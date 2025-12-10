@@ -7,5 +7,4 @@ image: /assets/images/function-graph.png
 ---
 Testing the paragraph layout here
 
-![Power Curve](assets/images/PowerCurve.jpg)
-
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
