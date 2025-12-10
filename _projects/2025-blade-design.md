@@ -6,6 +6,6 @@ technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
 
-
+Testing the paragraph layout here
 
 
