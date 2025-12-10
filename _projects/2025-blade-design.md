@@ -7,5 +7,5 @@ image: /assets/images/function-graph.png
 ---
 Testing the paragraph layout here
 
-![Power Curve]({{ "assets/images/PowerCurve.jpg" | relative_url }})
+![Power Curve](assets/images/PowerCurve.jpg)
 
