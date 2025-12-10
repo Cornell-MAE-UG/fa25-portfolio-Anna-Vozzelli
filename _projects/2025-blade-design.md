@@ -7,4 +7,4 @@ image: /assets/images/SideBlade.png
 ---
 Testing the paragraph layout here
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/PowerCurve.jpg" | relative_url }})
