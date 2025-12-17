@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Blade Design
-description: Class project with Graphs
-technologies: [MATLAB, python]
+description: Wind Turbine Blade Design
+technologies: [Fusion 360, ANSYS, Matlab]
 image: /assets/images/side-blade.png
 ---
 
