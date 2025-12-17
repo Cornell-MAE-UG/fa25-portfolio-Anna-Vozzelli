@@ -3,18 +3,36 @@ layout: project
 title: Boeing 737 MAX Ethical Analysis
 description: 
 technologies: [Ethical Analysis]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/BoeingPlane.jpg
 ---
 
 What Happened:
+In 2018, Lion Air flight 610 crashed, causing catastrophic damage. In 2019, Ethiopian Airlines flight 302 crashed, after which the Boeing 737 MAX was grounded. Both crashed resulted in immense loss of life. The problem was found to be Boeing's MCAS system, which would regulate the aircraft's angle relative to the ground during takeoff. However, this system had no redundancy, little testing, and no easily available override. It was not present in new pilot manuals, and had crashed multiple times during flight simulator testing. Yet, the system was still pushed and it took two catastrophic crashes to ground the plane. 
 
-Ethical Issues:
+
+Facts and Ethical Issues:
+1. Boeing was allowed to self-regulate, meaning the FAA provided them with the power to oversee their own regulation. This is a major conflict of interest, as the primary motivator of the FAA is safety and the primary motivator of Boeing as a company is profit.
+2. There were two crashes before the plane was grounded. They didn't happen in quick succession, and there were months to analyze the data of the previous crash to potentially prevent the second. Instead, Boeing announced that the Lion Air crash was due to "pilot error", despite having black box data showing MCAS erroneously activated many times, forcing the nose of the plane towards the ground without allowing the pilot to override. 
+3. There was no pilot training on MCAS. At first, the pilots didn't even know of its existence. So, when the nose of the aircraft started dipping down without their input, they had no knowledge of what was causing it or how to rectify it. 
+4. Simulator failures were not disclosed. Crashes due to MCAS failure were not a surprise to Boeing. When they tested the new system in flight simulators, MCAS occasionally took too much control and drove the craft into the ground. These failures were not reported until after MCAS became public knowledge. 
 
 Conflicts:
+Every involved stakeholder in Boeing has different motivations. Even within the groups that have similar motivations, their definitions of such vary, making the situation a "wicked problem". "Wicked problems" may have a clear desired outcome from an outside perspective (in this case, wanting no more crashes), but the actual logistics of achieving that outcome are near impossible due to varying stakeholder values and interconnected causes. A good example is homelessness. Everyone agrees that homelessness is ethically bad, but there's no clear solution to it. If there was, homelessness would be a problem of the past by now. 
+To break down some of the different values and conflicts, it's pertinent to start with each major party's motivations. First, Boeing. Boeing's primary motivator is profit. In fact, they developed the 737 MAX on a rushed schedule to compete with Airbus, who surprised the world by releasing a new, competitive model that threatened to loosen Boeing's grip on the market. Boeing, in an effort to retain dominance over Airbus, was financially motivated to release the 737 MAX as fast as possible and with few changes to the manual or additional training for pilots. They are concerned with safety, but still in relation to profit, as unsafe planes cause bad press that make fewer people fly on them, ultimately costing Boeing money.
+The FAA is concerned primarily with safety, but on a more statistical level. In their eyes, with meeting minimum safety standards, crashes are still bound to happen. The minimum standards are set based on these statistics, and do not always align with other definitions of safety. For instance, the FAA allowed the singular angle of attack sensor that caused the lack of redundancy in the MCAS system. This is because they saw the extra sensor as an extra cost that provided little benefit, given they're prone to failure already. In short, the FAA is concerned with safety but sees it as a numbers game.
+The passengers are also primarily motivated by safety, but in a different perspective. Each passenger is a person with a life, family, and friends. Each loss of a passenger is a loss of a father, a mother, a sibling, or a friend. So, every potentially preventable death is already an unacceptable loss of life. There's no statistics or numbers game to it. Accidents do happen, but when a passenger steps on a plane they put their lives in Boeing's hands, and expect the plane to be crafted to the utmost safety standards, which differ from the FAA's minimum standards or Boeing's cost effective solutions.
 
 Practical Constraints:
+Of course, there's more to it than just identifying the values of stakeholders. There are practical constraints on these ethical issues as well. For instance, Boeing as a whole does need to be motivated by profit to a degree. They need to make a profit to stay in business. This matters on an individual level, too. Boeing's employees rely on the continued operation of the company. Boeing going out of business would mean people would suddenly lose income and health insurance, which is very important in the United States. However, prioritizing safety would have cost them some time and some materials costs for each plane. This wouldn't make them suddenly start dipping into the negative, they'd simply make slightly less profit than if they cut corners on safety. Boeing needs to stay in business, but putting more time and money into safety wouldn't have put them out of business. 
+The FAA also has constraints on their regulations. Requiring more angle of attack sensors means a more rigorous regulation process and more time per plane inspected of safety checks. The FAA is regularly short on staff, so the minimum requirements are set so they can accomplish their workload in a reasonable time. This is also why they delegated Boeing their own regulatory power. Boeing handling their own regulation frees up staff and time for the FAA.
+Additionally, there was poor communication regarding minimum requirements. The engineers most likely assumed the minimum requirements were completely safe with no margin, which led to them building MCAS on a system already prone to failure. This is a good example of information silos. It's unrealistic to expect everyone to know everything about a project. It's reasonable to have experts on each topic in a project. However, on the scale of building an airplane, it's near impossible to confer with the expert for each topic that connects to yours, so it's reasonable to take that expert's word at face value. This causes information to build up in "silos", where each person is an expert on one topic, and it's difficult for that information to diffuse to everyone due to the sheer scale of the project. So, information silos are also a practical constraint. 
 
-Summary:
 
-Conclusion:
+Summary and Conclusion:
+In short, the Boeing 737 MAX crashes were entirely preventable, but the true cause lies under mountains of reasonable individual decisions and practical constraints on a systemic level. As such, it's a wicked problem without an easy fix, despite the desired outcome being clear. A thorough ethical analysis of this situation is paramount to preventing it from occuring again. It's unacceptable that even one person died unnecessarily, and the data gained from the crashes will not go to waste. Instead, the information gained from analyzing the crashes on a stakeholder and ethical level, while keeping conflicts and constraints in mind, will allow future engineers to identify if they see another incident in the making and allow them to potentially avert disaster. 
 
+
+All info was obtained from Cornell's MAE 4300 course lectures and relevant coursework.
+
+
+Image courtesy of Boeing
